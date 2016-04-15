@@ -8,6 +8,14 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_player</object>
+    <object>objects\obj_bullitR</object>
+    <object>objects\obj_bullitL</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_1</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
