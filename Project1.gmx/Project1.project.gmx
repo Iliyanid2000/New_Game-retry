@@ -5,7 +5,12 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_MainCharacterRunningRightNoGun</sprite>
+    <sprite>sprites\spr_MainCharacyerRunningLeftNoGun</sprite>
+    <sprite>sprites\spr_MainCharacterRunningUpNoGun</sprite>
+    <sprite>sprites\sprite3</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
