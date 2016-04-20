@@ -9,7 +9,9 @@
     <sprite>sprites\spr_MainCharacterRunningRightNoGun</sprite>
     <sprite>sprites\spr_MainCharacyerRunningLeftNoGun</sprite>
     <sprite>sprites\spr_MainCharacterRunningUpNoGun</sprite>
-    <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\spr_MainCharacterRunningDownNoGun</sprite>
+    <sprite>sprites\spr_BulletGold</sprite>
+    <sprite>sprites\spr_BulletSilver</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
