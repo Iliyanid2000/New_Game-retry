@@ -7,11 +7,17 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_MainCharacterRunningRightNoGun</sprite>
+    <sprite>sprites\spr_NeedToAddGun1</sprite>
     <sprite>sprites\spr_MainCharacyerRunningLeftNoGun</sprite>
+    <sprite>sprites\spr_NeedToAddGun2</sprite>
     <sprite>sprites\spr_MainCharacterRunningUpNoGun</sprite>
+    <sprite>sprites\spr_NeedToAddGun3</sprite>
     <sprite>sprites\spr_MainCharacterRunningDownNoGun</sprite>
-    <sprite>sprites\spr_BulletGold</sprite>
-    <sprite>sprites\spr_BulletSilver</sprite>
+    <sprite>sprites\spr_NeedToAddGun4</sprite>
+    <sprite>sprites\spr_BulletGoldR</sprite>
+    <sprite>sprites\spr_BulletGoldL</sprite>
+    <sprite>sprites\spr_BulletSilverL</sprite>
+    <sprite>sprites\spr_BulletSilverR</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
