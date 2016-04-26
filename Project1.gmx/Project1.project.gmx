@@ -18,6 +18,7 @@
     <sprite>sprites\spr_BulletGoldL</sprite>
     <sprite>sprites\spr_BulletSilverL</sprite>
     <sprite>sprites\spr_BulletSilverR</sprite>
+    <sprite>sprites\spr_Arrow</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
