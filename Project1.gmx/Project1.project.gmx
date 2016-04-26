@@ -20,11 +20,12 @@
     <font>fonts\fnt_menu</font>
   </fonts>
   <objects name="objects">
-    <object>objects\obj_player</object>
     <object>objects\obj_bullitR</object>
     <object>objects\obj_bullitL</object>
     <object>objects\obj_amo</object>
     <object>objects\obj_menu1</object>
+    <object>objects\obj_player</object>
+    <object>objects\obj_pause</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_menu</room>
