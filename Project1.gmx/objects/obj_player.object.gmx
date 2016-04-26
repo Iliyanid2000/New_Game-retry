@@ -60,7 +60,7 @@ vspeed -= 5
  
 if keyboard_check_pressed(ord("S"))
 {
-
+sprite_index = spr_MainCharacterRunningDownNoGun
 vspeed += 5
 }
  

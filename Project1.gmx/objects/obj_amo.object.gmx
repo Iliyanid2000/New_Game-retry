@@ -27,8 +27,8 @@
             <kind>1</kind>
             <string>for ( i = 0; i &lt; global.player; i++) 
 {    
-slot = i * sprite_get_width(sprite3);    
-draw_sprite(sprite3, 0, x + 
+slot = i * sprite_get_width(spr_BulletGoldR);    
+draw_sprite(spr_BulletGoldR, 0, x + 
 slot, y); }
 </string>
           </argument>
