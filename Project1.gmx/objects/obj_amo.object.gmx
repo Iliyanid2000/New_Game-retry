@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>for ( i = 0; i &lt; global.bullit; i++) 
+            <string>for ( i = 0; i &lt; global.player; i++) 
 {    
 slot = i * sprite_get_width(sprite3);    
 draw_sprite(sprite3, 0, x + 
