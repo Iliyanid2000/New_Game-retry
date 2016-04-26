@@ -37,7 +37,7 @@ mpos = 0;
 
 
 
-show_message("Hi, to move it's WSAD shoot is L/R arrow.")
+
 </string>
           </argument>
         </arguments>
