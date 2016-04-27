@@ -22,6 +22,7 @@
     <sprite>sprites\spr_Arrow</sprite>
     <sprite>sprites\spr_AmmokitPlaceHolder</sprite>
     <sprite>sprites\spr_HealthkitPlaceHolder</sprite>
+    <sprite>sprites\spr_MainCharacterStanding</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
