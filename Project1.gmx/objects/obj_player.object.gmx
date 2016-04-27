@@ -147,7 +147,7 @@ vspeed = 0
 hspeed = 0
 }
 
-if (health &lt; 0)
+if (health == 0)
 {
 game_end()
 }
@@ -176,7 +176,8 @@ game_end()
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>health -= 1
+            <string>if (global.pause) exit;
+health -= 1
 </string>
           </argument>
         </arguments>
