@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>global.player = 10;
+            <string>global.player = 13;
 </string>
           </argument>
         </arguments>
@@ -105,7 +105,7 @@ if global.player = 0
 {if keyboard_check_pressed(vk_left)
     {
  instance_create(x , y, obj_bullitL);
- obj_bullitL.speed = 8; 
+ obj_bullitL.speed = 20; 
  obj_bullitL.direction = 180;
  global.player -= 1
     }
@@ -116,7 +116,7 @@ if global.player = 0
 {if keyboard_check_pressed(vk_right)
     {
 instance_create(x , y, obj_bullitR);
- obj_bullitR.speed = 8; 
+ obj_bullitR.speed = 20; 
  obj_bullitR.direction = 0;
  global.player -= 1
     }
