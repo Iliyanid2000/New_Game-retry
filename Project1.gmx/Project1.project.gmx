@@ -36,6 +36,8 @@
     <object>objects\obj_menu1</object>
     <object>objects\obj_player</object>
     <object>objects\obj_pause</object>
+    <object>objects\obj_health</object>
+    <object>objects\obj_enemy</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_start</room>
