@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_MainCharacterRunningRightNoGun</sprite>
     <sprite>sprites\spr_NeedToAddGun1</sprite>
+    <sprite>sprites\spr_NeedToAddGunBackup</sprite>
     <sprite>sprites\spr_MainCharacyerRunningLeftNoGun</sprite>
     <sprite>sprites\spr_NeedToAddGun2</sprite>
     <sprite>sprites\spr_MainCharacterRunningUpNoGun</sprite>
@@ -19,6 +20,8 @@
     <sprite>sprites\spr_BulletSilverL</sprite>
     <sprite>sprites\spr_BulletSilverR</sprite>
     <sprite>sprites\spr_Arrow</sprite>
+    <sprite>sprites\spr_AmmokitPlaceHolder</sprite>
+    <sprite>sprites\spr_HealthkitPlaceHolder</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
