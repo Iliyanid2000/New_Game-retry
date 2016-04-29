@@ -11,6 +11,7 @@
     <sprite>sprites\spr_NeedToAddGunBackup</sprite>
     <sprite>sprites\spr_MainCharacyerRunningLeftNoGun</sprite>
     <sprite>sprites\spr_NeedToAddGun2</sprite>
+    <sprite>sprites\spr_NeedToAddGunBackup2</sprite>
     <sprite>sprites\spr_MainCharacterRunningUpNoGun</sprite>
     <sprite>sprites\spr_NeedToAddGun3</sprite>
     <sprite>sprites\spr_MainCharacterRunningDownNoGun</sprite>
