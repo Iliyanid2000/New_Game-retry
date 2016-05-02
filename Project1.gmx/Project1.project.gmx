@@ -31,7 +31,9 @@
     <sprite>sprites\spr_MainCharacterStandingLeft</sprite>
     <sprite>sprites\spr_AmoKit</sprite>
     <sprite>sprites\spr_AlienTest</sprite>
-    <sprite>sprites\spr_AlienTestBackup</sprite>
+    <sprite>sprites\spr_AlienOrigonalDontUse</sprite>
+    <sprite>sprites\spr_Collision_16x16_</sprite>
+    <sprite>sprites\spr_Collision_32x32_</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
