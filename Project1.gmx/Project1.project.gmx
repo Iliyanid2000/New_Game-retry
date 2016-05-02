@@ -14,19 +14,24 @@
     <sprite>sprites\spr_NeedToAddGunBackup2</sprite>
     <sprite>sprites\spr_MainCharacterRunningUpNoGun</sprite>
     <sprite>sprites\spr_NeedToAddGun3</sprite>
+    <sprite>sprites\spr_NeedToAddGunBackup3</sprite>
     <sprite>sprites\spr_MainCharacterRunningDownNoGun</sprite>
     <sprite>sprites\spr_NeedToAddGun4</sprite>
+    <sprite>sprites\spr_NeedToAddGunBackup4</sprite>
     <sprite>sprites\spr_BulletGoldR</sprite>
     <sprite>sprites\spr_BulletGoldL</sprite>
     <sprite>sprites\spr_BulletSilverL</sprite>
     <sprite>sprites\spr_BulletSilverR</sprite>
     <sprite>sprites\spr_Arrow</sprite>
-    <sprite>sprites\spr_AmmokitPlaceHolder</sprite>
-    <sprite>sprites\spr_HealthkitPlaceHolder</sprite>
+    <sprite>sprites\spr_Ammokit</sprite>
+    <sprite>sprites\spr_Healthkit</sprite>
     <sprite>sprites\spr_MainCharacterStandingForwards</sprite>
     <sprite>sprites\spr_MainCharacterStandingBackwards</sprite>
     <sprite>sprites\spr_MaincharacterStandingRight</sprite>
     <sprite>sprites\spr_MainCharacterStandingLeft</sprite>
+    <sprite>sprites\spr_AmoKit</sprite>
+    <sprite>sprites\spr_AlienTest</sprite>
+    <sprite>sprites\spr_AlienTestBackup</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
