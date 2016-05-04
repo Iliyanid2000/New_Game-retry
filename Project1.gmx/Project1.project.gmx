@@ -31,6 +31,13 @@
     <sprite>sprites\spr_MaincharacterStandingRight</sprite>
     <sprite>sprites\spr_MainCharacterStandingLeft</sprite>
     <sprite>sprites\spr_AlienRunningRight</sprite>
+    <sprite>sprites\spr_AlienStandindRight</sprite>
+    <sprite>sprites\spr_AlienNeedToAddGun1</sprite>
+    <sprite>sprites\spr_AlienNeedToAddGun1Backup</sprite>
+    <sprite>sprites\spr_AlienRunnningLeft</sprite>
+    <sprite>sprites\spr_AlienStandingLeft</sprite>
+    <sprite>sprites\spr_AlienNeedToAddGun2</sprite>
+    <sprite>sprites\spr_AlienNeedToAddGun2Backup</sprite>
     <sprite>sprites\spr_AlienOrigonalDontUse</sprite>
     <sprite>sprites\spr_Collision_16x16_</sprite>
     <sprite>sprites\spr_Collision_32x32_</sprite>

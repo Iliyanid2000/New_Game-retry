@@ -20,11 +20,11 @@
   <width>32</width>
   <height>32</height>
   <frames>
-    <frame index="0">images\spr_AlienRunningRight_0.png</frame>
-    <frame index="1">images\spr_AlienRunningRight_1.png</frame>
-    <frame index="2">images\spr_AlienRunningRight_2.png</frame>
-    <frame index="3">images\spr_AlienRunningRight_3.png</frame>
-    <frame index="4">images\spr_AlienRunningRight_4.png</frame>
-    <frame index="5">images\spr_AlienRunningRight_5.png</frame>
+    <frame index="0">images\spr_AlienNeedToAddGun1_0.png</frame>
+    <frame index="1">images\spr_AlienNeedToAddGun1_1.png</frame>
+    <frame index="2">images\spr_AlienNeedToAddGun1_2.png</frame>
+    <frame index="3">images\spr_AlienNeedToAddGun1_3.png</frame>
+    <frame index="4">images\spr_AlienNeedToAddGun1_4.png</frame>
+    <frame index="5">images\spr_AlienNeedToAddGun1_5.png</frame>
   </frames>
 </sprite>
