@@ -39,6 +39,7 @@
     <sprite>sprites\spr_AlienNeedToAddGun2</sprite>
     <sprite>sprites\spr_AlienNeedToAddGun2Backup</sprite>
     <sprite>sprites\spr_AlienOrigonalDontUse</sprite>
+    <sprite>sprites\spr_AlienRunningUp</sprite>
     <sprite>sprites\spr_Collision_16x16_</sprite>
     <sprite>sprites\spr_Collision_32x32_</sprite>
   </sprites>
