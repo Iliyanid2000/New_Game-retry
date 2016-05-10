@@ -43,7 +43,9 @@
     <sprite>sprites\spr_Collision_16x16_</sprite>
     <sprite>sprites\spr_Collision_32x32_</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\obj_menu</background>
+  </backgrounds>
   <paths name="paths">
     <path>paths\path_enemy</path>
   </paths>
