@@ -44,7 +44,9 @@
     <sprite>sprites\spr_Collision_32x32_</sprite>
   </sprites>
   <backgrounds name="background"/>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\path_enemy</path>
+  </paths>
   <scripts name="scripts">
     <script>scripts\scr_menu.gml</script>
   </scripts>
