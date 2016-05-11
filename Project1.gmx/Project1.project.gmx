@@ -46,11 +46,20 @@
     <sprite>sprites\spr_AlienRunningDown</sprite>
     <sprite>sprites\spr_Collision_16x16_</sprite>
     <sprite>sprites\spr_Collision_32x32_</sprite>
+    <sprite>sprites\spr_WW3</sprite>
   </sprites>
   <backgrounds name="background">
+<<<<<<< HEAD
     <background>background\ocean</background>
   </backgrounds>
   <paths name="paths"/>
+=======
+    <background>background\obj_menu</background>
+  </backgrounds>
+  <paths name="paths">
+    <path>paths\path_enemy</path>
+  </paths>
+>>>>>>> origin/master
   <scripts name="scripts">
     <script>scripts\scr_menu.gml</script>
   </scripts>
@@ -67,6 +76,7 @@
     <object>objects\obj_pause</object>
     <object>objects\obj_health</object>
     <object>objects\obj_enemy</object>
+    <object>objects\obj_WW3</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_start</room>
