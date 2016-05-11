@@ -42,6 +42,7 @@
     <sprite>sprites\spr_AlienRunningUp</sprite>
     <sprite>sprites\spr_Collision_16x16_</sprite>
     <sprite>sprites\spr_Collision_32x32_</sprite>
+    <sprite>sprites\spr_WW3</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\obj_menu</background>
@@ -65,6 +66,7 @@
     <object>objects\obj_pause</object>
     <object>objects\obj_health</object>
     <object>objects\obj_enemy</object>
+    <object>objects\obj_WW3</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_start</room>
